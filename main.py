@@ -1,7 +1,7 @@
 """
 Created on Sat Jul 13 09:34:46 2019
 
-@author: jay
+@author: jay wang
 """
 
 import dash
