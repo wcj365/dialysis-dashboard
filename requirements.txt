@@ -1,0 +1,5 @@
+pandas
+plotly==4.0.0
+plotly-express
+dash
+
